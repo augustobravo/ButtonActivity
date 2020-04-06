@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ButtonActivity</string>
+    <string name="btPrimerBoton">Grabar</string>
+    <string name="btSiguienteBoton">Siguiente</string>
+    <string name="btAnteriorBoton">Anterior</string>
+
+    <string name="txtNombreAct2">Nombre</string>
+    <string name="txtPasswordAct2">Password</string>
+    <string name="txtEmailAct2">Email</string>
+    <string name="btEnviarBoton">Enviar</string>
+
+    <string name="txtTitulo">Encuesta</string>
+    <string name="txtSubTitulo">¿ Cuale son sus aficiones ?</string>
+    <string name="chkTeatro">Ir al Teatro</string>
+    <string name="chkCine">Ir al Cine</string>
+    <string name="chkCenar">Ir a Cenar</string>
+    <string name="btEnviarEncuestaBoton">Enviar Encuesta</string>
+
+    <string name="rdbMasculino">Masculino</string>
+    <string name="rdbFemenio">Femenino</string>
+
+    <string name="txtEntradasAct2">Numero de Entradas</string>
+
+
+</resources>
